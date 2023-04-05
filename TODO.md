@@ -1,0 +1,2 @@
+- Add delete Button for profile
+- Remove class use interface

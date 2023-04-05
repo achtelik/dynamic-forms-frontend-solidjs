@@ -1,0 +1,22 @@
+Oidc: https://github.com/authts/oidc-client-ts
+
+leaflet:
+
+* https://leafletjs.com/
+* https://leafletjs.com/examples/crs-simple/crs-simple.html
+* https://github.com/chris31415926535/solid-leaflet-reprex/blob/master/src/components/Map.tsx
+* https://stackoverflow.com/questions/56057066/leaflet-with-markercluster-and-typescript
+
+i18next:
+
+* https://www.i18next.com/
+* https://github.com/i18next/i18next-http-backend
+* https://github.com/mbarzda/solid-i18next
+
+
+Canvas:
+
+* https://konvajs.org/
+* https://github.com/konvajs/konva#typescript-usage
+
+Vectors + Matrix: https://github.com/Kapcash/ts-matrix

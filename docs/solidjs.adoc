@@ -1,0 +1,9 @@
+SolidJS-Start: https://start.solidjs.com/
+
+SolidJS: https://www.solidjs.com/
+
+SolidJS Examples: https://www.solidjs.com/examples
+
+
+SolidJS Typescript guide: https://www.solidjs.com/guides/typescript
+SolidJS Typescript Components: https://dev.to/mbarzeev/convert-your-solidjs-component-to-typescript-1opn

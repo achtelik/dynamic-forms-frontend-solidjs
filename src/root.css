@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.whitespace-wrap {
+    white-space: break-spaces;
+}
+
+.pb-18 {
+    padding-bottom: 4.5rem;
+}
+
+.max-h-50 {
+    max-height: 50%;
+}

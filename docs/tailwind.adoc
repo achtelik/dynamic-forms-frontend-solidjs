@@ -1,0 +1,15 @@
+Template: https://www.tailwindtoolbox.com/templates/admin-template
+
+Templates & Elements:
+
+* https://tailwindtemplates.io/templates
+* https://tailblocks.cc/
+* DaisyUi: https://daisyui.com/docs/install/
+
+Elements (not working properly): https://tailwind-elements.com/
+
+Icons: https://heroicons.com/
+
+Patterns: https://heropatterns.com/
+
+Flags: https://hypercolor.dev/flags

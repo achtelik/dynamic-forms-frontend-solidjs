@@ -1,0 +1,104 @@
+{
+  "app": {
+    "name": "Dynamic-Forms"
+  },
+  "dalle": {
+    "actions": {
+      "copy": "Kopieren",
+      "copy-and-go": "Kopieren → Bing-Create"
+    },
+    "modal": {
+      "options": {
+        "style": "Style",
+        "view": "Ansicht"
+      },
+      "select": "Bitte wähle einen {{option}} aus."
+    },
+    "prompt-input": "Beschreibung",
+    "prompt-input-placeholder": "Dein Beschreibung des Bildes.",
+    "prompt-output": "Aufforderung",
+    "prompt-output-placeholder": "Hier steht dein Dall-E Aufforderung."
+  },
+  "index": {
+    "greeting": "Willkommen"
+  },
+  "navbar": {
+    "user-menu": {
+      "language": {
+        "options": {
+          "de": "Deutsch",
+          "en": "Englisch"
+        },
+        "select-text": "Sprache"
+      },
+      "logout": "Abmelden",
+      "profile": "Profil"
+    }
+  },
+  "profile": {
+    "action": {
+      "create": "Registrieren"
+    },
+    "field": {
+      "full-name": "Vor- und Nachname",
+      "registration-id": "Registrierungs-ID"
+    },
+    "tab": {
+      "profile": "Profil",
+      "user": "Benutzer"
+    }
+  },
+  "sidebar": {
+    "dall-e": "Dall-E"
+  },
+  "test": "test_de",
+  "universe": {
+    "actionmenu": {
+      "contact": "Kontaktieren",
+      "dock": "Andocken",
+      "fly": "Fliegen",
+      "follow": "Folgen",
+      "trade": "Handeln"
+    },
+    "contextmenu": {
+      "trading": "Handeln"
+    },
+    "planets": {
+      "earth": "Erde",
+      "jupiter": "Jupiter",
+      "kuiper_belt_east": "Kuipergürtel Ost",
+      "kuiper_belt_north": "Kuipergürtel Nord",
+      "kuiper_belt_south": "Kuipergürtel Süd",
+      "kuiper_belt_west": "Kuipergürtel West",
+      "mars": "Mars",
+      "mercury": "Merkur",
+      "neptune": "Neptun",
+      "pluto": "Pluto",
+      "saturn": "Saturn",
+      "sun": "Sonne",
+      "uranus": "Uranus",
+      "venus": "Venus"
+    },
+    "selectionmenu": {
+      "filter": "Filter",
+      "selected": "Ausgewählt"
+    },
+    "title": "Universum",
+    "tootip": {
+      "others": "Andere",
+      "ships": "Schiffe",
+      "stations": "Stationen"
+    }
+  },
+  "user": {
+    "field": {
+      "access-token": "Access Token",
+      "id-token": "ID Token",
+      "profile": "Profil",
+      "refresh-token": "Refresh Token"
+    },
+    "message": {
+      "private-information": "Diese Informationen sind private. Teile sie nicht!"
+    }
+  }
+}

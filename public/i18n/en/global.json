@@ -1,0 +1,104 @@
+{
+  "app": {
+    "name": "Dynamic-Forms"
+  },
+  "dalle": {
+    "actions": {
+      "copy": "Copy",
+      "copy-and-go": "Copy → Bing-Create"
+    },
+    "modal": {
+      "options": {
+        "style": "Style",
+        "view": "View"
+      },
+      "select": "Please select a {{option}}."
+    },
+    "prompt-input": "Description",
+    "prompt-input-placeholder": "Your picture description.",
+    "prompt-output": "Prompt",
+    "prompt-output-placeholder": "This is your Dall-E prompt."
+  },
+  "index": {
+    "greeting": "Welcome"
+  },
+  "navbar": {
+    "user-menu": {
+      "language": {
+        "options": {
+          "de": "German",
+          "en": "English"
+        },
+        "select-text": "Language"
+      },
+      "logout": "logout",
+      "profile": "Profile"
+    }
+  },
+  "profile": {
+    "action": {
+      "create": "Registrate"
+    },
+    "field": {
+      "full-name": "First and last name",
+      "registration-id": "Registration ID"
+    },
+    "tab": {
+      "profile": "Profile",
+      "user": "User"
+    }
+  },
+  "sidebar": {
+    "dall-e": "Dall-E"
+  },
+  "test": "test_en",
+  "universe": {
+    "actionmenu": {
+      "contact": "Contact",
+      "dock": "Dock",
+      "fly": "Fly",
+      "follow": "Follow",
+      "trade": "Trade"
+    },
+    "contextmenu": {
+      "trading": "Trading"
+    },
+    "planets": {
+      "earth": "Earth",
+      "jupiter": "Jupiter",
+      "kuiper_belt_east": "Kuiper Belt East",
+      "kuiper_belt_north": "Kuiper Belt North",
+      "kuiper_belt_south": "Kuiper Belt South",
+      "kuiper_belt_west": "Kuiper Belt West",
+      "mars": "Mars",
+      "mercury": "Mercury",
+      "neptune": "Neptune",
+      "pluto": "Pluto",
+      "saturn": "Saturn",
+      "sun": "Sun",
+      "uranus": "Uranus",
+      "venus": "Venus"
+    },
+    "selectionmenu": {
+      "filter": "Filter",
+      "selected": "Selected"
+    },
+    "title": "Universe",
+    "tootip": {
+      "others": "Others",
+      "ships": "Ships",
+      "stations": "Stations"
+    }
+  },
+  "user": {
+    "field": {
+      "access-token": "Access Token",
+      "id-token": "ID Token",
+      "profile": "Profile",
+      "refresh-token": "Refresh Token"
+    },
+    "message": {
+      "private-information": "These information are private. Don't share them."
+    }
+  }
+}
